@@ -1,2 +1,2 @@
 # SmallMLToolbox
-Re-using code snippets and modular code is good practise.
+Bunch of code snippets from smaller projects. Available to use.
